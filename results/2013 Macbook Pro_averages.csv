@@ -1,0 +1,5 @@
+Test Name,Average Duration (s)
+CSV file read-write,1.978711446126302
+Image file read-rotate-write,0.8240220546722412
+Mandelbrot set in Python,1.3615516026814778
+ND-Array power calculation,1.4079063733418782
